@@ -1,16 +1,24 @@
-### Hi there 👋
+#🚀**Data Engineer**
 
-<!--
-**BigDataEngineer09/BigDataEngineer09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ![working image](CanvaPicture_1.png)
+ 
 
-Here are some ideas to get you started:
+## 🎓 **Current Academic Arsenal**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Major**: Computer Science
+- **Courses**: Big Data, Algorithms, Data Structures
+- **Self-Study**: Data Engineering Concepts, ETL Processes
+
+## 🛠️ **Tools I'm Crafting With**
+
+- **Languages**: Python, SQL
+- **Frameworks**: PySpark, Pandas
+- **Visualization**: Matplotlib, Seaborn, PowerBI
+- **Databases**: SQLDeveloper
+- **Big Data**: Azure Data Lake Storage, Azure Data Factory, Azure Databricks, Azure Synapse 
+
+
+## 🤝 **Let's Connect and Learn Together**
+
+-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Monisha Shree](https://www.linkedin.com/in/monisha-shree-6b8663156/)
+&nbsp;
