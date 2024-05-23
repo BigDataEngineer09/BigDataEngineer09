@@ -7,7 +7,7 @@
 
 - **Major**: Computer Science
 - **Courses**: Big Data, Algorithms, Data Structures
-- **Self-Study**: Data Engineering Concepts, ETL Processes
+- **Specialzed**: Data Engineering Concepts, ETL Processes
 
 ## 🛠️ **Tools I'm Crafting With**
 
