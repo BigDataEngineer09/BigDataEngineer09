@@ -1,6 +1,6 @@
 #🚀**Data Engineer**
 
- ![working image](CanvaPicture_1.png)
+ ![working image](CanvaPicture_2.png)
  
 
 ## 🎓 **Current Academic Arsenal**
