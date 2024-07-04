@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=BigDataEngineer09&abbreviated=true)
 #🚀**Data Engineer**
 
  ![working image](CanvaPicture_2.png)
