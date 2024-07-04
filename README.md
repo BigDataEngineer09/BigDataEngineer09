@@ -12,7 +12,7 @@
 
 ## 💬 **Let's Connect and Learn Together**
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/monisha-shree-6b8663156/) Monisha Shree
+[![LinkedIn](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/monisha-shree-6b8663156/) Monisha Shree
 
 
 Open to collaboration and new opportunities!
