@@ -7,16 +7,21 @@
 
 - **Major**: Computer Science
 - **Courses**: Big Data, Algorithms, Data Structures
-- **Self-Study**: Data Engineering Concepts, ETL Processes
+- **Specialzed**: Data Engineering Concepts, ETL Processes
 
 ## 🛠️ **Tools I'm Crafting With**
 
-- **Languages**: Python, SQL
-- **Frameworks**: PySpark, Pandas
-- **Visualization**: Matplotlib, Seaborn, PowerBI
-- **Databases**: SQLDeveloper
-- **Big Data**: Azure Data Lake Storage, Azure Data Factory, Azure Databricks, Azure Synapse 
+-**Languages**: Python, Data Structures and Algorithms, SQL
 
+-**ETL Tools**: Azure Data Lake Storage, Azure Data Factory, Amazon S3, Azure Databricks, PySpark, Snowflake, Airflow
+
+-**CI/CD Tools**: Git bash, Bitbucket, Jira, TeamCity, IBM UrbanCode Deploy, Autosys
+
+-**Data manipulation**: Pandas, NumPy
+
+-**Data visualization**: Seaborn, Matplotlib
+
+-**Machine learning framework**: ScikitLearn
 
 ## 🤝 **Let's Connect and Learn Together**
 
