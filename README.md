@@ -3,7 +3,7 @@
 
  ![working image](CanvaPicture_2.png)
  
-👋 Hello, fellow data enthusiasts! I'm [Your Name], a Computer Science master's student with a passion for unraveling insights from data. 🌟 Aspiring Data Scientist and Machine Learning Engineer, I'm on an exciting journey to blend theory with real-world applications.
+👋 Hello, fellow data enthusiasts! I'm Monisha Shree, a Computer Science master's student with a passion for unraveling insights from data. 🌟 Aspiring Data Scientist and Machine Learning Engineer, I'm on an exciting journey to blend theory with real-world applications.
 
 🔍 What I'm Up To:
 📚 Currently diving deep into Machine Learning and Natural Language Processing (NLP).
