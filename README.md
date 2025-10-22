@@ -1,6 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=BigDataEngineer09&abbreviated=true)
 
-![working image](CanvaPicture_2.png)
 
 # 👋 Hi, I'm Monisha Shree  
 🎯 **AI Engineer | Data & Backend Specialist | M.Sc. Computer Science**
